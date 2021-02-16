@@ -1,0 +1,1 @@
+dotnet run --project ./AltexSoftWork1/AltexSoftWork1.csproj

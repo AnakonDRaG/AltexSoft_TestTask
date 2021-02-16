@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>AltexSoftWork1.Program</StartupObject>
+    <Description>Hi :)</Description>
+    <Authors>Dmitriy Vakarchuk</Authors>
+    <Product>AltexSoftWork1</Product>
+    <RepositoryUrl>https://github.com/AnakonDRaG/AltexSoft_TestTask.git</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
